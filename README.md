@@ -4,7 +4,7 @@ Applying Principal Component Analysis on Breast Cancer Wisconsin Data.
 
 ## Installation
 
-This project requires **Python 2.7** and the following Python libraries installed:
+This project requires **Python 2.7 or 3+** and the following Python libraries installed:
 
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
@@ -15,12 +15,9 @@ This project requires **Python 2.7** and the following Python libraries installe
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `customer_segments/` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory (that contains this README) and run one of the following commands:
 
-```bash
-ipython notebook PCA_on_Breast_Cancer_Wisconsin.ipynb
-```  
-or
+
 ```bash
 jupyter notebook PCA_on_Breast_Cancer_Wisconsin.ipynb
 ```
